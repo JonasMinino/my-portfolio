@@ -1,2 +1,2 @@
 # my-portfolio
-Sample of Ficitional Portfolio
+Sample of a fictoinal portfolio using html, css, and javascript.
